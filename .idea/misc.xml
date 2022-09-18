@@ -4,14 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/i190450/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23" />
+        <entry key="..\:/i190450/app/src/main/res/drawable/circle.xml" value="0.2055" />
         <entry key="..\:/i190450/app/src/main/res/drawable/circle_button.xml" value="0.25" />
         <entry key="..\:/i190450/app/src/main/res/drawable/circle_text.xml" value="0.2145" />
         <entry key="..\:/i190450/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23" />
+        <entry key="..\:/i190450/app/src/main/res/drawable/menu.xml" value="0.2055" />
+        <entry key="..\:/i190450/app/src/main/res/drawable/profile.xml" value="0.2055" />
+        <entry key="..\:/i190450/app/src/main/res/layout/activity_home_screen.xml" value="0.264" />
         <entry key="..\:/i190450/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/i190450/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/i190450/app/src/main/res/layout/activity_signup.xml" value="0.4742468415937804" />
         <entry key="..\:/i190450/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/i190450/app/src/main/res/layout/fragment_add_songs.xml" value="0.22826086956521738" />
+        <entry key="..\:/i190450/app/src/main/res/layout/fragment_like.xml" value="0.22826086956521738" />
+        <entry key="..\:/i190450/app/src/main/res/layout/fragment_listenlater.xml" value="0.22826086956521738" />
+        <entry key="..\:/i190450/app/src/main/res/layout/fragment_search.xml" value="0.22826086956521738" />
         <entry key="..\:/i190450/app/src/main/res/layout/splash_screen.xml" value="0.253125" />
+        <entry key="..\:/i190450/app/src/main/res/menu/home_menu.xml" value="0.253125" />
       </map>
     </option>
   </component>
